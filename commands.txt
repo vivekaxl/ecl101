@@ -1,0 +1,4 @@
+>ecl run try1.ecl --target=thor
+
+>ecl run try2.ecl -I C:\GIT\ecl-ml\ --target=thor
+
