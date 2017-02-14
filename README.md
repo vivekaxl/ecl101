@@ -1,2 +1,3 @@
 # ecl101
-good starting point
+
+Tutorial Doc: http://tiny.cc/ecl101
